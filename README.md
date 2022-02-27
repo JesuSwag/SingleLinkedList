@@ -1,5 +1,5 @@
-# Challenges
-Coding challenges in CS235
+# Single Linked List
+Single linked list data structure in CS235
 
 Following is the folder structure to get to the source code:[^1]
 
